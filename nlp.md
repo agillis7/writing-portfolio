@@ -1,108 +1,360 @@
-natural language processing (NLP)
+What is natural language processing (NLP)?
 
 
 
-Natural language processing (NLP) is the ability of a computer program to understand human language as it is spoken. NLP is a component of artificial intelligence (AI).
+Natural language processing (NLP) is the ability of a computer program to understand human language as it's spoken and written -- referred to as natural language. It's a component of AI.
 
 
 
-The development of NLP applications is challenging because computers traditionally require humans to "speak" to them in a programming language that is precise, unambiguous and highly structured, or through a limited number of clearly enunciated voice commands. Human speech, however, is not always precise -- it is often ambiguous and the linguistic structure can depend on many complex variables, including slang, regional dialects and social context.
+Computers with NLP capabilities can not only recognize and understand natural human language, but also communicate with humans in the same language. These capabilities allow the machines to understand and respond to human commands, find information, answer questions, generate text, translate text, and more.
 
 
 
-Uses of Natural Language Processing
+NLP, which has roots in linguistics, has existed for more than 50 years and has various real-world applications in numerous fields, including medical research, search engines and business intelligence.
 
 
 
-Research being done on natural language processing revolves around search, especially enterprise search. This involves allowing users to query data sets in the form of a question that they might pose to another person. The machine interprets the important elements of the human language sentence, such as those that might correspond to specific features in a data set, and returns an answer.
+NLP uses either rule-based or machine learning approaches to understand the structure and meaning of text. Machine learning and NLP play a role in chatbots, voice assistants, text-based scanning programs, translation applications and enterprise software that aids in business operations, increases productivity and simplifies different processes.
 
 
 
-NLP can be used to interpret free text and make it analyzable. There is a tremendous amount of information stored in free text files, like patients' medical records, for example. Before deep learning-based NLP models, this information was inaccessible to computer-assisted analysis and could not be analyzed in any systematic way. But NLP allows analysts to sift through massive troves of free text to find relevant information in the files.
+Why is natural language processing important?
 
+Businesses use large amounts of unstructured, text-heavy data and need a way to efficiently process it. Much of the information created online and stored in databases is natural human language, and until recently, businesses couldn't effectively analyze this data. This is where natural language processing is useful.
 
 
 
+NLP enables computers to recognize and understand the text stored in human language. It also generates text in natural language, allowing human users to draw useful insights and inferences from the data to help them optimize real-world decisions and actions.
 
-This video explains how to use
 
-deep learning to build NLP models.
 
+The ability of NLP-enabled computers to quickly and accurately process vast quantities of unstructured text is one reason why the NLP market size is growing. According to Statista, the NLP market is projected to reach a value of $53.42 billion in 2025. It is also expected to continue to grow at a CAGR of 24.76% (2025-2031). By 2031, the market volume is projected to hit $201.49 billion.
 
 
-Sentiment analysis is another primary use case for NLP. Using sentiment analysis, data scientists can assess comments on social media to see how their business's brand is performing, for example, or review notes from customer service teams to identify areas where people want the business to perform better.
 
+The advantages of natural language processing can be seen when considering the following two statements: "Cloud computing insurance should be part of every service-level agreement" and "A good SLA ensures an easier night's sleep -- even in the cloud." If a user relies on natural language processing for search, the program will recognize that cloud computing is an entity, that cloud is an abbreviated form of cloud computing, and that SLA is an industry acronym for service-level agreement.
 
 
-Google and other search engines base their machine translation technology on NLP deep learning models. This allows algorithms to read text on a webpage, interpret its meaning and translate it to another language.
 
+These are the types of vague elements that frequently appear in human language and that machine learning algorithms have historically been bad at interpreting. Now, with improvements in deep learning and machine learning methods, algorithms can effectively interpret them. These improvements expand the breadth and depth of data that can be analyzed, allowing employees to save time. NLP-enabled automation also reduces the potential for errors -- a common problem with manual, human-dependent document analysis and interpretation.
 
 
-How Natural Language Processing Works; Techniques and Tools  
 
+Likewise, NLP has furthered developments into generative AI (GenAI). When a person interacts with a GenAI chatbot or an AI voice assistant like Siri on their phone, they don't need to use a specific predefined language or complex technical jargon. Instead, they could interact with the chatbot or voice assistant using their regular diction and simple, familiar language. The voice assistant will still be able to understand them and respond to their queries in similarly natural, human-understandable language.
 
 
-Syntax and semantic analysis are two main techniques used with natural language processing. Syntax is the arrangement of words in a sentence to make grammatical sense. NLP uses syntax to assess meaning from a language based on grammatical rules. Syntax techniques used include parsing (grammatical analysis for a sentence), word segmentation (which divides a large piece of text to units), sentence breaking (which places sentence boundaries in large texts), morphological segmentation (which divides words into groups) and stemming (which divides words with inflection in them to root forms).
 
+Many enterprise software solutions also incorporate NLP capabilities. These solutions can recognize, analyze and generate text in human language to support various business processes and activities. For example, organizations can use NLP-enabled tools to do the following:
 
 
-Semantics involves the use and meaning behind words. NLP applies algorithms to understand the meaning and structure of sentences. Techniques NLP uses with semantics include word sense disambiguation (which derives meaning of a word based on context), named entity recognition (which determines words that can be categorized into groups), and natural language generation (which will use a database to determine semantics behind words).
 
+Automate some business workflows that previously relied exclusively on human labor, in order to save time, streamline processes and increase employee productivity.
 
+Analyze customer call transcripts and chat logs to gauge customer sentiment and ultimately improve customer support.
 
-Current approaches to NLP are based on deep learning, a type of AI that examines and uses patterns in data to improve a program's understanding. Deep learning models require massive amounts of labeled data to train on and identify relevant correlations, and assembling this kind of big data set is one of the main hurdles to NLP currently.
+Simplify HR processes around hiring, onboarding, offboarding and training so HR personnel can focus on other strategic tasks.
 
+Analyze transaction patterns and communication data to identify suspicious transactions and potential fraud.
 
+Benefits of natural language processing
 
-Earlier approaches to NLP involved a more rules-based approach, where simpler machine learning algorithms were told what words and phrases to look for in text and given specific responses when those phrases appeared. But deep learning is a more flexible, intuitive approach in which algorithms learn to identify speakers' intent from many examples, almost like how a child would learn human language.
+The main benefit of NLP is that it improves the way humans and computers communicate with each other. The most direct way to manipulate a computer is through code -- the computer's language. Enabling computers to understand human language makes interacting with computers much more intuitive for humans, so they don't have to know or use programming languages. Instead, users can input commands, requests or questions in simple natural language and expect to get appropriate responses in the same language.
 
 
 
-Three tools used commonly used for NLP include NLTK, Gensim, and Intel NLP Architect. NTLK, Natural Language Toolkit, is an open source python modules with data sets and tutorials. Gensim is a Python library for topic modeling and document indexing. Intel NLP Architect is also another Python library for deep learning topologies and techniques.
+By easing communication between humans and machines, NLP simplifies many tasks that would otherwise require a lot of time and effort. For example, it can help automate tasks like text translations, data entry and content summarization, as well as tasks related to document processing and customer support.
 
 
 
-Importance of NLP
+NLP-enabled machines can also do the following:
 
 
 
-The advantage of natural language processing can be seen when considering the following two statements: "Cloud computing insurance should be part of every service level agreement" and "A good SLA ensures an easier night's sleep -- even in the cloud." If you use national language processing for search, the program will recognize that cloud computing is an entity, that cloud is an abbreviated form of cloud computing and that SLA is an industry acronym for service level agreement.
+Extract useful data from forms and other documents.
 
+Analyze and process documents containing unstructured data, such as contracts, SLAs and social media posts.
 
+Classify and filter information from content.
 
-These are the types of vague elements that frequently appear in human language and that machine learning algorithms have historically been bad at interpreting. Now, with improvements in deep learning and artificial intelligence, algorithms can effectively interpret them.
+Display information in response to human commands (e.g., routes or weather).
 
+Some of the other benefits of NLP include the following:
 
 
-This has implications for the types of data that can be analyzed. More and more information is being created online every day, and a lot of it is natural human language. Until recently, businesses have been unable to analyze this data. But advances in NLP make it possible to analyze and learn from a greater range of data sources.
 
+Improved accuracy and efficiency of documentation.
 
+Organizations can use chatbots for routine customer support queries, allowing human agents to focus on more complex issues.
 
-Benefits
+NLP can automatically make a readable summary of a larger, more complex original text, thus speeding up document processing and analysis.
 
+Organizations can perform unstructured data analysis while minimizing the need for human input and reducing the potential for errors and slowdowns.
 
+Personal assistants such as Alexa can understand the spoken word and respond to human commands.
 
-NLP host benefits such as:
+Customer care teams can better understand social media posts, surveys and reviews in order to perform customer sentiment analysis.
 
+Organizations can use NLP to optimize lead generation by automatically identifying high-intent prospects, qualifying leads and tailoring content to maximize the potential for conversion.
 
+NLP tools provide advanced insights from analytics that were previously unreachable because of the large size and variability (different types of data) of datasets.
 
-Improved accuracy and efficiency of documentation
+Challenges of natural language processing
 
-The ability to automatically make a readable summary text.
+There are numerous challenges in natural language processing, and most of them boil down to the fact that natural language is ever-evolving, somewhat ambiguous and hasn't yet been perfected. As a result, semantic analysis can still be a challenge, meaning the NLP system might struggle to understand the meaning and context of human language and to correctly interpret the user's underlying intent.
 
-Useful for personal assistants such as Alexa.
 
-Allows an organization to use chatbots for customer support.
 
-Sentiment analysis.
+Some of the key challenges with NLP include the following:
 
-Challenges
 
 
+Precision. Computers traditionally require humans to speak to them in a programming language that's precise, unambiguous and highly structured -- or through a limited number of clearly enunciated voice commands. Human speech, however, isn't always precise; it's often ambiguous and the linguistic structure can depend on many complex variables, including slang and idioms, regional dialects, mispronunciations, incorrect grammar and social context. These variations can result in the NLP misinterpreting or misunderstanding human inputs and generating incorrect outputs.
 
-NLP hasn’t wholly been figured out though however. As an example, semantic analysis can still be a challenge for NLP.
+Abstract language use. The abstract use of language is typically tricky and complex for programs to understand. For instance, natural language processing doesn't easily pick up on sarcasm or understand human emotions like confusion or horror. To do so, the machine would need to understand the words being used and their context in a conversation -- something that they are not yet able to do.
 
+Different meanings of the same sentence. In some cases, the meaning of a sentence can change completely, depending on which word or syllable the speaker puts stress on. For example, a sentence like "I didn't say I don't like her" can mean different things, depending on whether the first I or the word say are stressed. Stressing the first I: "I didn't say I don't like her" means that the user didn't say it but someone else did, while stressing say: "I didn't say I don't like her" could mean that the user only thought about disliking her but didn't actually say it. Machines cannot parse these subtle differences, again resulting in incorrect or unreliable semantic analysis and inaccurate output.
 
+Variations in voice, tone, inflection. When performing speech recognition, NLP algorithms can miss the subtle but important tone changes in a person's voice that can completely change the meaning of a word or sentence. Consider a simple phrase like, "Excuse me." When said softly, it indicates the speaker's request for someone's attention or for space, but when said loudly, it could indicate the speaker's disgust, frustration, or anger with a person or situation. NLP cannot differentiate between the two tones so it can misinterpret the meaning.
 
-Other difficulties include the fact that abstract use of language is typically tricky for programs to understand. For example, NLP doesn’t pick up sarcasm easily. These topics usually require the understanding of the words being used and the context in which the way they are being used. As another example, a sentence can change meaning depending on which word the speaker puts stress on. NLP is also challenged by the fact that language, and the way people use it, is continually changing.
+Accents. The risk of language misinterpretation by NLP increases due to accents. Many NLP models are trained on language data spoken in a specific accent (e.g., American) so when the system encounters a different accent in the real world, it might not be able to understand the user. The most common issue with accents is variations in pronunciation, tone and inflection of speech. These elements can be challenging for an NLP algorithm to parse.
+
+Evolving use of language. Natural language processing is also challenged by the fact that language -- and the way people use it -- is continually changing. Although there are rules to language, none are written in stone, and they're subject to change over time. Hard computational rules that work now might become obsolete, as the characteristics of real-world language change over time. For example, new vocabulary is continually being added to almost every human language. If the NLP model is not regularly trained on new words, phrases, idioms, etc., it might not generate accurate or reliable output when faced with previously unseen new inputs.
+
+Bias. Biased training data introduces bias into NLP systems. This bias can be gender-related, ethnicity-related, age-related, and so on. If the training data skews toward a specific gender, race or age group, the NLP model will only learn from that data and accordingly capture biased semantic relationships. This can result in the reinforcement of existing stereotypes. It could also unfairly advantage or disadvantage certain persons or groups, leading to discrimination. This is a known issue in law enforcement, healthcare and hiring, and can lead to poor organizational decision-making, result in financial penalties imposed by regulators, damage the organization's reputation and even lead to physical injury or death.
+
+What is natural language processing used for?
+
+Natural language processing algorithms leverage rule-based modeling of human language to recognize, interpret and generate natural language text. In doing so, they can perform numerous functions and tasks.
+
+
+
+Some of the main functions and NLP tasks that natural language processing algorithms perform include the following:
+
+
+
+Text classification. This function assigns tags to texts to put them in categories. This can be useful for sentiment analysis, which helps the natural language processing algorithm determine the sentiment, or emotion, behind a text. For example, when brand A is mentioned in X number of texts, the algorithm can determine how many of those mentions were positive and how many were negative. It can also be useful for intent detection, which helps predict what the speaker or writer might do based on the text they're producing.
+
+Text extraction. This function automatically summarizes text and finds important pieces of data. One example of this is keyword extraction, which pulls the most important words from the text, which can be useful for search engine optimization. Doing this with natural language processing requires some programming -- it isn't completely automated. However, there are plenty of simple keyword extraction tools that automate most of the process -- the user just sets parameters within the program. For example, a tool might pull out the most frequently used words in the text. Another example is entity recognition, which extracts the names of people, places and other entities from text.
+
+Machine translation. In this process, a computer translates text from one language, such as English, to another language, such as French, without human intervention.
+
+Natural language generation. This process uses natural language processing algorithms to analyze unstructured data and automatically produce content based on that data. One example of this is in language models like the third-generation Generative Pre-trained Transformer (GPT-3), which can analyze unstructured text and then generate believable articles based on that text.
+
+The functions listed above are used in a variety of real-world applications and industries. Some of the most popular applications of NLP include the following:
+
+
+
+Customer feedback analysis. Tools using AI can analyze social media reviews and filter out comments and queries for a company.
+
+AI for customer experience. Voice assistants on a customer service phone line can use speech recognition to understand what the customer is saying, so that it can direct their call correctly.
+
+Automatic translation. Tools such as Google Translate, Bing Translator and Translate Me can translate text, audio and documents into another language.
+
+Academic research and analysis. Tools using AI can analyze huge amounts of academic material and research papers based on the metadata of the text as well as the text itself.
+
+Analysis and categorization of healthcare records. AI-based tools can use insights to predict and, ideally, prevent disease.
+
+Plagiarism detection. Tools such as Copyleaks and Grammarly use AI technology to scan documents and detect text matches and plagiarism.
+
+Stock forecasting and insights into financial trading. NLP tools and platforms can analyze market history and annual reports that contain comprehensive summaries of a company's financial performance.
+
+Talent recruitment in human resources. Organizations can use AI-based tools to reduce hiring time by automating the candidate sourcing and screening process.
+
+Automation of routine litigation. AI-powered tools can do research, identify possible issues and summarize cases faster than human attorneys.
+
+Spam detection. NLP-enabled tools can be used to classify text for language that's often used in spam or phishing attempts. For example, AI-enabled tools can detect bad grammar, misspelled names, urgent calls to action and threatening terms.
+
+NLP is increasingly employed in numerous industries and departments, including the following:
+
+
+
+Legal. Legal cases almost always require lawyers and paralegals to sift through vast numbers of documents containing vast volumes of unstructured data. NLP tools can quickly process these documents at scale and streamline data analysis to assist legal professionals with complex tasks related to legal discovery, legal research, document drafting, contract analysis, due diligence and risk management.
+
+HR. HR personnel can use NLP to simplify effort-intensive tasks like candidate sourcing, resume screening, interview scheduling and employee sentiment analysis. The time saved can be used to accelerate hiring, improve candidate experiences and implement new initiatives to improve employee engagement and workplace experiences.
+
+Operations. NLP-enabled systems are useful for a wide range of operational tasks and workflows, including customer support, predictive maintenance, quality control, process automation and supply chain management. NLP can provide automated support, generate actionable insights, classify information and process documents -- all of which can help business managers increase operational efficiency, reduce costs and risk, and make better-informed decisions.
+
+Data analytics. NLP can extract key insights from unstructured documents and large datasets to identify useful patterns and trends that may not be readily obvious through manual (i.e., human "by eye") analysis. Different kinds of organizations can use the insights generated by the NLP system to inform their processes and decisions.
+
+Healthcare. NLP-based tools trained on the right types of data can analyze health records, discharge summaries, research papers and other kinds of medical documents to extract key information and make accurate summaries. These insights and summaries enable care providers to make better, data-informed diagnostic and other decisions. Some NLP systems can aid in drug discovery and research; others can detect certain medical conditions in a patient and predict their future health outcomes; still others can automate administrative tasks like report generation, document management or transcription. NLP-powered chatbots can interact with patients in personalized, human-like ways, thus improving patient access to care and enhancing provider-patient engagement.
+
+Insurance. NLP systems can automatically extract key information from insurance claims, helping to speed up claims processing and resolution and reduce errors. Some tools can perform risk assessment of individuals based on their personal information, health history, financial history and other parameters to enable insurers to set the right premium, terms and conditions for their policies.
+
+How does natural language processing work?
+
+NLP uses many different techniques to enable computers to understand natural language as humans do. Whether the language is spoken or written, natural language processing can use AI to take real-world input, process it and make sense of it in a way a computer can understand. Just as humans have different sensors -- such as ears to hear and eyes to see -- computers have programs to read and microphones to collect audio. And just as humans have a brain to process that input, computers have a program to process their respective inputs. At some point in processing, the input is converted to code that the computer can understand.
+
+
+
+There are four main phases to natural language processing: data preprocessing, feature extraction, algorithm development and model training.
+
+
+
+Data preprocessing
+
+Data preprocessing involves preparing and cleaning text data so that machines can analyze it. Preprocessing puts data in a workable form and highlights features in the text that an algorithm can work with. There are several ways this can be done, including the following:
+
+
+
+Tokenization. Tokenization substitutes sensitive information with nonsensitive information, or a token. Tokenization is often used in payment transactions to protect credit card data.
+
+Stop word removal. Common words are removed from the text, so unique words that offer the most information about the text remain.
+
+Lemmatization and stemming. Lemmatization groups together different inflected versions of the same word. For example, the word "walking" would be reduced to its root form, or stem, "walk" to process.
+
+Part-of-speech tagging. Words are tagged based on which part of speech they correspond to -- such as nouns, verbs or adjectives.
+
+Feature extraction
+
+Feature extraction is the process of converting raw text -- which has already been cleaned and standardized -- into structured numerical representations using techniques like bag of words (BoW), word embeddings or TF-IDF. The goal of such conversions is to ensure that a machine can analyze and interpret the text provided to it as input.
+
+
+
+Once the text is converted into a simpler, machine-readable form, the machine can identify patterns from the text, highlight key information within it and make predictions. Feature extraction accelerates NLP model training and improves model performance and output.
+
+
+
+Algorithm development
+
+Once the data has been preprocessed, an algorithm is developed to process it. There are many different natural language processing algorithms, but the following two main types are commonly used:
+
+
+
+Rule-based system. This system uses carefully designed linguistic rules. This approach was used early in the development of natural language processing and is still used.
+
+Machine learning-based system. Machine learning algorithms use statistical methods. They learn to perform tasks based on training data they're fed and adjust their methods as more data is processed. Using a combination of machine learning, deep learning and neural networks, natural language processing algorithms hone their own rules through repeated processing and learning.
+
+Model training
+
+After the algorithm is selected, the model is trained on the processed data. Ideally, the training data should closely resemble real-world problems. This enables the model to identify patterns and learn correlations within the data, which will then allow it to produce more accurate output on new data.
+
+
+
+Organizations can use many data sources to train their NLP models. Reputable open source datasets and libraries are available for model training, although there's also the option to generate synthetic data to improve the model and mitigate bias. Once a model is trained, it's important to continually fine-tune it. This helps to enhance its accuracy and relevance for real-world NLP tasks.
+
+
+
+Techniques and methods of natural language processing
+
+Syntax and semantic analysis are two main techniques used in natural language processing.
+
+
+
+Syntax NLP techniques
+
+Syntax is the arrangement of words in a sentence to make grammatical sense. NLP uses syntax to assess meaning from a language based on grammatical rules. Syntax NLP techniques include the following:
+
+
+
+Parsing. This is the grammatical analysis of a sentence. For example, a natural language processing algorithm is fed the sentence, "The dog barked." Parsing involves breaking this sentence into parts of speech -- i.e., dog is a noun; barked is a verb. This is useful for more complex downstream processing tasks.
+
+NLP algorithms can perform either dependency parsing or constituency parsing. The above sentence is an example of dependency parsing where the model looks at the relationships between words to differentiate between various parts of speech. Constituency parsing involves building a syntax tree that properly represents the syntactic structure of a sentence to make it understandable to the NLP model and to end users.
+
+Word segmentation. Also known as tokenization, word segmentation is the act of taking a string of text and deriving word forms from it. For example, a person scans a handwritten document into a computer. The algorithm can analyze the page and recognize that the words are divided by white spaces.
+
+Tokenization results in a word index that maps each unique word to a specific numerical identifier as well as tokenized text in which each word in the text is replaced by its corresponding numerical token. These elements are important for many NLP tasks, including translations and part-of-speech tagging.
+
+Sentence breaking. This places sentence boundaries in large texts. For example, a natural language processing algorithm is fed the text, "The dog barked. I woke up." The algorithm can use sentence breaking to recognize the period that splits up the sentences. Various NLP libraries, predefined rules or pretrained models are used to identify individual sentences from a body of text and make them available for useful NLP tasks like content summarization.
+
+Morphological segmentation. This divides words into smaller meaningful parts called morphemes. For example, the word untestable would be broken into \[\[un\[\[test]able]], where the algorithm recognizes "un," "test," and "able" as morphemes. This is especially useful in named entity recognition (NER), machine translation and speech recognition. Various methods of morphological segmentation are available, including surface segmentation and canonical segmentation.
+
+Stemming. It divides words with inflections in them into root forms. This improves text processing and analysis. For example, in the sentence, "The dog barked," the algorithm would recognize the root of the word "barked" is "bark." This is useful if a user is analyzing text for all instances of the word bark, as well as all its conjugations. The algorithm can see that they're essentially the same word even though the letters are different.
+
+Semantic NLP techniques
+
+Semantics involves the use of and meaning behind words. Natural language processing applies algorithms to understand the meaning and structure of sentences. Semantic techniques include the following:
+
+
+
+Word sense disambiguation. This derives the meaning of a word based on context. The same words might be used in different contexts and the NLP model should be able to identify the differences to demonstrate that it can accurately understand the text.
+
+For example, consider the sentence, "The pig is in the pen." Here, the word pen has different meanings, depending on whether it refers to a writing implement or a place to house pigs. An NLP algorithm using this method can understand that the use of the word here refers to a fenced-in area for pigs, not a writing instrument.
+
+
+
+Named entity recognition. NER determines useful words or phrases -- generally known as "entities" -- that can be categorized into various groups. For example, an algorithm using this method could analyze a news article and identify all mentions of a certain company or product. Using the semantics of the text, it could differentiate between different entities that are represented by the same word. For instance, in the sentence, "Daniel McDonald's son went to McDonald's and ordered a Happy Meal," the algorithm could recognize the two instances of "McDonald's" as two separate entities -- one a restaurant and one a person.
+
+Natural language generation. NLG uses a database to determine the semantics behind words and generate new text. For example, an algorithm could automatically write a summary of findings from a business intelligence (BI) platform, mapping certain words and phrases to features of the data in the BI platform. Another example would be automatically generating news articles or tweets based on a certain body of text used for training.
+
+NLG is most commonly used to generate the auto-responses of chatbots and virtual assistants. It is also employed to automate emails, personalize responses to emails, generate customer support scripts, summarize news reports and create product descriptions for e-commerce.
+
+Natural language processing and deep learning
+
+Current approaches to natural language processing are based on deep learning, a type of AI that examines and uses patterns in data to improve a program's understanding. Deep learning models require massive amounts of labeled data for the natural language processing algorithm to train on and identify relevant correlations, and assembling this kind of big data set is one of the main hurdles to natural language processing.
+
+
+
+Earlier approaches to natural language processing involved a more rule-based approach, where simpler machine learning algorithms were told what words and phrases to look for in text and given specific responses when those phrases appeared. But deep learning is a more flexible, intuitive approach in which algorithms learn to identify speakers' intent from many examples -- almost like how a child would learn human language.
+
+
+
+NLP tools
+
+Three open source tools commonly used for natural language processing include Natural Language Toolkit (NLTK), Gensim, and NLP Architect by Intel AI Lab.
+
+
+
+NLTK. This is a Python module with data sets and tutorials. It enables users to build Python programs that can work with natural language data. With NLTK, users can identify named entities, tokenize and tag text, and display parse trees. The platform also provides text processing libraries for stemming, parsing and semantic reasoning.
+
+Gensim. This is a Python library for topic modeling and document indexing. It features intuitive interfaces and can be extended with other Vector Space algorithms. The Python packages NumPy and Scipy are required to install and use Gensim.
+
+NLP Architect by Intel AI Lab. This is an open source Python library for deep learning topologies and techniques. It provides numerous core NLP models that can be used for many NLP tasks and applications. At the same time, it is flexible so new neural network components and data handling methods can be added to train and run new models.
+
+The evolution of natural language processing
+
+NLP draws from a variety of disciplines, including computer science and computational linguistics developments dating back to the mid-20th century. Its evolution included the following major milestones:
+
+
+
+1950s
+
+Natural language processing has its roots in this decade, when Alan Turing developed the Turing Test to determine whether or not a computer is truly intelligent. The test involves automated interpretation and the generation of natural language as a criterion of intelligence.
+
+
+
+1950s-1990s
+
+NLP was largely rules-based, using handcrafted rules developed by linguists to determine how computers would process language. The Georgetown-IBM experiment in 1954 became a notable demonstration of machine translation, automatically translating more than 60 sentences from Russian to English. The 1980s and 1990s saw the development of rule-based parsing, morphology, semantics and other forms of natural language understanding.
+
+
+
+1990s
+
+The top-down, language-first approach to natural language processing was replaced with a more statistical approach because advancements in computing made this a more efficient way of developing NLP technology. Computers were becoming faster and could be used to develop rules based on linguistic statistics without a linguist creating all the rules. Data-driven natural language processing became mainstream during this decade. Natural language processing shifted from a linguist-based approach to an engineer-based approach, drawing on a wider variety of scientific disciplines instead of delving into linguistics.
+
+
+
+2000-2020s
+
+Natural language processing saw dramatic growth in popularity as a term. NLP processes using unsupervised and semisupervised machine learning algorithms were also explored. With advances in computing power, natural language processing has also gained numerous real-world applications. NLP also began powering other applications like chatbots and virtual assistants. Today, approaches to NLP involve a combination of classical linguistics and statistical methods.
+
+
+
+2020s-Present day
+
+Developments in the NLP field accelerated after 2020. One of the most visible and high-profile developments is the launch of ChatGPT, an advanced AI chatbot that uses a large language model (LLM) to understand human inputs in natural language and then provide fast, contextually relevant responses -- also in natural language.
+
+
+
+ChatGPT first launched in November 2022, and it was based on the GPT-3.5 LLM. OpenAI, the company that built ChatGPT, released the next LLM iteration, GPT-4 with more advanced generative capabilities in 2023. The company launched GPT-5 in August 2025, the most advanced model that powers ChatGPT and according to the firm, is "available to everyone".
+
+
+
+Another important NLP development is the emergence of multimodal models. These models can take in and interpret user inputs in multiple modes, not just text. For example, CLIP by OpenAI can understand and process both images and text to provide better quality output and enhance user experiences with NLP.
+
+
+
+Alongside LLMs, small language models (SLMs) are also emerging in the NLP landscape. SLMs are smaller and have fewer capabilities than LLMs. These models can be fine-tuned on domain-specific data sets for use in specialized applications like chatbots or to meet the information retrieval needs of specific industries.
+
+
+
+In recent years, research has scaled up into several NLP-related or NLP-adjacent areas, such as bias mitigation, AI ethics, and zero-shot learning. Additionally, researchers are developing techniques to efficiently train models to reduce computational requirements and increase model accessibility and performance. These developments are likely to contribute to further advancements in NLP and create more applications for the use of NLP in the real world.
+
+
+
+Natural language processing plays a vital part in technology and the way humans interact with it. Though it has its challenges, NLP is expected to become more accurate with more sophisticated models, more accessible and more relevant in numerous industries. NLP will continue to be an important part of both industry and everyday life.
+
+
+
+As natural language processing is making significant strides in new fields, it's becoming more important for developers to learn how it works. Learn how to develop your skills in creating NLP programs.
 
